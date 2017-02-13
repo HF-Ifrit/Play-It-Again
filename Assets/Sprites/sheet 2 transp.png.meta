@@ -1,0 +1,994 @@
+fileFormatVersion: 2
+guid: e7e90de4bb4a4fb4aa2ddd49d82fa2f8
+timeCreated: 1461209084
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sheet 2 transp_4
+    21300002: sheet 2 transp_73
+    21300004: sheet 2 transp_74
+    21300006: sheet 2 transp_75
+    21300008: sheet 2 transp_76
+    21300010: sheet 2 transp_77
+    21300012: sheet 2 transp_78
+    21300014: sheet 2 transp_79
+    21300016: sheet 2 transp_80
+    21300018: sheet 2 transp_81
+    21300020: sol b1
+    21300022: sol b2
+    21300024: sol b3
+    21300026: mt b1
+    21300028: mt b2
+    21300030: mt b3
+    21300032: mt2 b1
+    21300034: mt2 b2
+    21300036: mt2 b3
+    21300038: sheet 2 transp_91
+    21300040: sheet 2 transp_92
+    21300042: sheet 2 transp_93
+    21300044: sheet 2 transp_94
+    21300046: sheet 2 transp_95
+    21300048: sheet 2 transp_96
+    21300050: sheet 2 transp_97
+    21300052: sheet 2 transp_98
+    21300054: sheet 2 transp_99
+    21300056: sol r1
+    21300058: sol r2
+    21300060: sol r3
+    21300062: mt r1
+    21300064: mt r2
+    21300066: mt r3
+    21300068: mt2 r1
+    21300070: mt2 r2
+    21300072: mt2 r3
+    21300074: sheet 2 transp_109
+    21300076: sheet 2 transp_110
+    21300078: sheet 2 transp_111
+    21300080: sheet 2 transp_112
+    21300082: sheet 2 transp_113
+    21300084: sheet 2 transp_114
+    21300086: sheet 2 transp_115
+    21300088: sheet 2 transp_116
+    21300090: sheet 2 transp_117
+    21300092: sol f1
+    21300094: sol f2
+    21300096: sol f3
+    21300098: mt f1
+    21300100: mt f2
+    21300102: mt f3
+    21300104: mt2 f1
+    21300106: mt2 f2
+    21300108: mt2 f3
+    21300110: sheet 2 transp_127
+    21300112: sheet 2 transp_128
+    21300114: sheet 2 transp_129
+    21300116: sheet 2 transp_130
+    21300118: sheet 2 transp_131
+    21300120: sheet 2 transp_132
+    21300122: sheet 2 transp_133
+    21300124: sheet 2 transp_134
+    21300126: sheet 2 transp_135
+    21300128: sol l1
+    21300130: sol l2
+    21300132: sol l3
+    21300134: mt l1
+    21300136: mt l2
+    21300138: mt l3
+    21300140: mt2 l1
+    21300142: mt2 l2
+    21300144: mt2 l3
+    21300146: sheet 2 transp_151
+    21300148: sheet 2 transp_152
+    21300150: sheet 2 transp_153
+    21300152: sheet 2 transp_154
+    21300154: sheet 2 transp_155
+    21300156: sheet 2 transp_156
+    21300158: sheet 2 transp_157
+    21300160: sheet 2 transp_158
+    21300162: sheet 2 transp_159
+    21300164: solw b1
+    21300166: solw b2
+    21300168: sol2 b3
+    21300170: ft b1
+    21300172: ft b2
+    21300174: ft b3
+    21300176: ft2 b1
+    21300178: ft2 b2
+    21300180: ft2 b3
+    21300182: sheet 2 transp_169
+    21300184: sheet 2 transp_170
+    21300186: sheet 2 transp_171
+    21300188: sheet 2 transp_172
+    21300190: sheet 2 transp_173
+    21300192: sheet 2 transp_174
+    21300194: sheet 2 transp_175
+    21300196: sheet 2 transp_176
+    21300198: sheet 2 transp_177
+    21300200: solw r1
+    21300202: solw r2
+    21300204: solw r3
+    21300206: ft r1
+    21300208: ft r2
+    21300210: ft r3
+    21300212: ft2 r1
+    21300214: ft2 r2
+    21300216: ft2 r3
+    21300218: sheet 2 transp_187
+    21300220: sheet 2 transp_188
+    21300222: sheet 2 transp_189
+    21300224: sheet 2 transp_190
+    21300226: sheet 2 transp_191
+    21300228: sheet 2 transp_192
+    21300230: sheet 2 transp_193
+    21300232: sheet 2 transp_194
+    21300234: sheet 2 transp_195
+    21300236: solw f1
+    21300238: solw f2
+    21300240: solw f3
+    21300242: ft f1
+    21300244: sheet 2 transp_200
+    21300246: sheet 2 transp_201
+    21300248: ft2 f1
+    21300250: ft2 f2
+    21300252: ft2 f3
+    21300254: sheet 2 transp_205
+    21300256: sheet 2 transp_206
+    21300258: sheet 2 transp_207
+    21300260: sheet 2 transp_208
+    21300262: sheet 2 transp_209
+    21300264: sheet 2 transp_210
+    21300266: sheet 2 transp_211
+    21300268: sheet 2 transp_212
+    21300270: sheet 2 transp_213
+    21300272: solw l1
+    21300274: solw l2
+    21300276: solw l3
+    21300278: ft l1
+    21300280: ft l2
+    21300282: ft l3
+    21300284: ft2 l1
+    21300286: ft2 l2
+    21300288: ft2 l3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sol b1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 202
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sol b2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 203
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sol b3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 202
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt b1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 202
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt b2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 203
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt b3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 202
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt2 b1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 202
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt2 b2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 203
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt2 b3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 202
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sol r1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 184
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sol r2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 185
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sol r3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 184
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt r1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 184
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt r2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 185
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt r3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 184
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt2 r1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 184
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt2 r2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 185
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt2 r3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 184
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sol f1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 166
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sol f2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 167
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sol f3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 166
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt f1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 166
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt f2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 167
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt f3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 166
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt2 f1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 166
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt2 f2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 167
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt2 f3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 166
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sol l1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 148
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sol l2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 149
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sol l3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 148
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt l1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 148
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt l2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 149
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt l3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 148
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt2 l1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 148
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt2 l2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 149
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt2 l3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 148
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: solw b1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 76
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: solw b2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 77
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sol2 b3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 76
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft b1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 76
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft b2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 77
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft b3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 76
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft2 b1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 76
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft2 b2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 77
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft2 b3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 76
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: solw r1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 58
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: solw r2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 59
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: solw r3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 58
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft r1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 58
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft r2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 59
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft r3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 58
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft2 r1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 58
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft2 r2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 59
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft2 r3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 58
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: solw f1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 40
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: solw f2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: solw f3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 40
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft f1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet 2 transp_200
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sheet 2 transp_201
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft2 f1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft2 f2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft2 f3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: solw l1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 22
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: solw l2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 23
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: solw l3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 22
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft l1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 22
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft l2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 23
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft l3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 22
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft2 l1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 22
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft2 l2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 23
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft2 l3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 22
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

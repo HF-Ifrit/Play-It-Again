@@ -1,0 +1,937 @@
+fileFormatVersion: 2
+guid: f00606b266ea70b49a9f77cbc21f60d3
+timeCreated: 1461209301
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: war b2
+    21300002: war b3
+    21300004: war r3
+    21300006: war f3
+    21300008: war l3
+    21300010: sheet 1 transp_5
+    21300012: sheet 1 transp_6
+    21300014: sheet 1 transp_7
+    21300016: sheet 1 transp_8
+    21300018: sheet 1 transp_9
+    21300020: sheet 1 transp_10
+    21300022: sheet 1 transp_11
+    21300024: sheet 1 transp_12
+    21300026: sheet 1 transp_13
+    21300028: sheet 1 transp_14
+    21300030: sheet 1 transp_15
+    21300032: sheet 1 transp_16
+    21300034: sheet 1 transp_17
+    21300036: sheet 1 transp_18
+    21300038: sheet 1 transp_19
+    21300040: sheet 1 transp_20
+    21300042: sheet 1 transp_21
+    21300044: sheet 1 transp_22
+    21300046: sheet 1 transp_23
+    21300048: sheet 1 transp_24
+    21300050: sheet 1 transp_25
+    21300052: sheet 1 transp_26
+    21300054: sheet 1 transp_27
+    21300056: sheet 1 transp_28
+    21300058: sheet 1 transp_29
+    21300060: sheet 1 transp_30
+    21300062: sheet 1 transp_31
+    21300064: sheet 1 transp_32
+    21300066: sheet 1 transp_33
+    21300068: sheet 1 transp_34
+    21300070: sheet 1 transp_35
+    21300072: sheet 1 transp_36
+    21300074: sheet 1 transp_37
+    21300076: sheet 1 transp_38
+    21300078: sheet 1 transp_39
+    21300080: sheet 1 transp_40
+    21300082: sheet 1 transp_41
+    21300084: sheet 1 transp_42
+    21300086: sheet 1 transp_43
+    21300088: sheet 1 transp_44
+    21300090: sheet 1 transp_45
+    21300092: sheet 1 transp_46
+    21300094: sheet 1 transp_47
+    21300096: sheet 1 transp_48
+    21300098: sheet 1 transp_49
+    21300100: sheet 1 transp_50
+    21300102: sheet 1 transp_51
+    21300104: sheet 1 transp_52
+    21300106: sheet 1 transp_53
+    21300108: sheet 1 transp_54
+    21300110: sheet 1 transp_55
+    21300112: sheet 1 transp_56
+    21300114: sheet 1 transp_57
+    21300116: sheet 1 transp_58
+    21300118: sheet 1 transp_59
+    21300120: sheet 1 transp_60
+    21300122: sheet 1 transp_61
+    21300124: sheet 1 transp_62
+    21300126: sheet 1 transp_63
+    21300128: sheet 1 transp_64
+    21300130: sheet 1 transp_65
+    21300132: sheet 1 transp_66
+    21300134: sheet 1 transp_67
+    21300136: sheet 1 transp_68
+    21300138: sheet 1 transp_69
+    21300140: sheet 1 transp_70
+    21300142: sheet 1 transp_71
+    21300144: sheet 1 transp_72
+    21300146: sheet 1 transp_73
+    21300148: sheet 1 transp_74
+    21300150: sheet 1 transp_75
+    21300152: sheet 1 transp_76
+    21300154: sheet 1 transp_77
+    21300156: sheet 1 transp_78
+    21300158: sheet 1 transp_79
+    21300160: sheet 1 transp_80
+    21300162: sheet 1 transp_81
+    21300164: sheet 1 transp_82
+    21300166: sheet 1 transp_83
+    21300168: sheet 1 transp_84
+    21300170: sheet 1 transp_85
+    21300172: sheet 1 transp_86
+    21300174: sheet 1 transp_87
+    21300176: sheet 1 transp_88
+    21300178: sheet 1 transp_89
+    21300180: sheet 1 transp_90
+    21300182: sheet 1 transp_91
+    21300184: sheet 1 transp_92
+    21300186: sheet 1 transp_93
+    21300188: sheet 1 transp_94
+    21300190: sheet 1 transp_95
+    21300192: sheet 1 transp_96
+    21300194: sheet 1 transp_97
+    21300196: sheet 1 transp_98
+    21300198: sheet 1 transp_99
+    21300200: sheet 1 transp_100
+    21300202: sheet 1 transp_101
+    21300204: sheet 1 transp_102
+    21300206: sheet 1 transp_103
+    21300208: sheet 1 transp_104
+    21300210: sheet 1 transp_105
+    21300212: sheet 1 transp_106
+    21300214: sheet 1 transp_107
+    21300216: sheet 1 transp_108
+    21300218: sheet 1 transp_109
+    21300220: sheet 1 transp_110
+    21300222: sheet 1 transp_111
+    21300224: sheet 1 transp_112
+    21300226: sheet 1 transp_113
+    21300228: sheet 1 transp_114
+    21300230: sheet 1 transp_115
+    21300232: sheet 1 transp_116
+    21300234: sheet 1 transp_117
+    21300236: sheet 1 transp_118
+    21300238: sheet 1 transp_119
+    21300240: sheet 1 transp_120
+    21300242: sheet 1 transp_121
+    21300244: sheet 1 transp_122
+    21300246: sheet 1 transp_123
+    21300248: sheet 1 transp_124
+    21300250: sheet 1 transp_125
+    21300252: sheet 1 transp_126
+    21300254: sheet 1 transp_127
+    21300256: sheet 1 transp_128
+    21300258: sheet 1 transp_129
+    21300260: sheet 1 transp_130
+    21300262: sheet 1 transp_131
+    21300264: sheet 1 transp_132
+    21300266: sheet 1 transp_133
+    21300268: sheet 1 transp_134
+    21300270: sheet 1 transp_135
+    21300272: sheet 1 transp_136
+    21300274: sheet 1 transp_137
+    21300276: sheet 1 transp_138
+    21300278: sheet 1 transp_139
+    21300280: sheet 1 transp_140
+    21300282: sheet 1 transp_141
+    21300284: sheet 1 transp_142
+    21300286: sheet 1 transp_143
+    21300288: sheet 1 transp_144
+    21300290: sheet 1 transp_145
+    21300292: sheet 1 transp_146
+    21300294: sheet 1 transp_147
+    21300296: sheet 1 transp_148
+    21300298: sheet 1 transp_149
+    21300300: sheet 1 transp_150
+    21300302: sheet 1 transp_151
+    21300304: sheet 1 transp_152
+    21300306: sheet 1 transp_153
+    21300308: sheet 1 transp_154
+    21300310: sheet 1 transp_155
+    21300312: sheet 1 transp_156
+    21300314: sheet 1 transp_157
+    21300316: sheet 1 transp_158
+    21300318: sheet 1 transp_159
+    21300320: sheet 1 transp_160
+    21300322: sheet 1 transp_161
+    21300324: sheet 1 transp_162
+    21300326: sheet 1 transp_163
+    21300328: sheet 1 transp_164
+    21300330: sheet 1 transp_165
+    21300332: sheet 1 transp_166
+    21300334: sheet 1 transp_167
+    21300336: sheet 1 transp_168
+    21300338: sheet 1 transp_169
+    21300340: sheet 1 transp_170
+    21300342: sheet 1 transp_171
+    21300344: sheet 1 transp_172
+    21300346: mt b1
+    21300348: mt b2
+    21300350: mt b3
+    21300352: sheet 1 transp_176
+    21300354: sheet 1 transp_177
+    21300356: sheet 1 transp_178
+    21300358: sheet 1 transp_179
+    21300360: sheet 1 transp_180
+    21300362: sheet 1 transp_181
+    21300364: sheet 1 transp_182
+    21300366: sheet 1 transp_183
+    21300368: sheet 1 transp_184
+    21300370: sheet 1 transp_185
+    21300372: sheet 1 transp_186
+    21300374: sheet 1 transp_187
+    21300376: sheet 1 transp_188
+    21300378: mt r1
+    21300380: mt r2
+    21300382: mt r3
+    21300384: sheet 1 transp_192
+    21300386: sheet 1 transp_193
+    21300388: sheet 1 transp_194
+    21300390: sheet 1 transp_195
+    21300392: sheet 1 transp_196
+    21300394: sheet 1 transp_197
+    21300396: sheet 1 transp_198
+    21300398: sheet 1 transp_199
+    21300400: sheet 1 transp_200
+    21300402: sheet 1 transp_201
+    21300404: sheet 1 transp_202
+    21300406: sheet 1 transp_203
+    21300408: sheet 1 transp_204
+    21300410: mt f1
+    21300412: mt f2
+    21300414: mt f3
+    21300416: sheet 1 transp_208
+    21300418: sheet 1 transp_209
+    21300420: sheet 1 transp_210
+    21300422: sheet 1 transp_211
+    21300424: sheet 1 transp_212
+    21300426: sheet 1 transp_213
+    21300428: sheet 1 transp_214
+    21300430: sheet 1 transp_215
+    21300432: sheet 1 transp_216
+    21300434: sheet 1 transp_217
+    21300436: sheet 1 transp_218
+    21300438: sheet 1 transp_219
+    21300440: sheet 1 transp_220
+    21300442: mt l1
+    21300444: mt l2
+    21300446: mt l3
+    21300448: sheet 1 transp_224
+    21300450: sheet 1 transp_225
+    21300452: sheet 1 transp_226
+    21300454: sheet 1 transp_227
+    21300456: sheet 1 transp_228
+    21300458: sheet 1 transp_229
+    21300460: sheet 1 transp_230
+    21300462: sheet 1 transp_231
+    21300464: sheet 1 transp_232
+    21300466: sheet 1 transp_233
+    21300468: sheet 1 transp_234
+    21300470: sheet 1 transp_235
+    21300472: sheet 1 transp_236
+    21300474: sheet 1 transp_237
+    21300476: sheet 1 transp_238
+    21300478: sheet 1 transp_239
+    21300480: sheet 1 transp_240
+    21300482: sheet 1 transp_241
+    21300484: sheet 1 transp_242
+    21300486: sheet 1 transp_243
+    21300488: sheet 1 transp_244
+    21300490: sheet 1 transp_245
+    21300492: sheet 1 transp_246
+    21300494: sheet 1 transp_247
+    21300496: sheet 1 transp_248
+    21300498: sheet 1 transp_249
+    21300500: sheet 1 transp_250
+    21300502: sheet 1 transp_251
+    21300504: sheet 1 transp_252
+    21300506: sheet 1 transp_253
+    21300508: sheet 1 transp_254
+    21300510: sheet 1 transp_255
+    21300512: sheet 1 transp_256
+    21300514: sheet 1 transp_257
+    21300516: sheet 1 transp_258
+    21300518: sheet 1 transp_259
+    21300520: sheet 1 transp_260
+    21300522: sheet 1 transp_261
+    21300524: sheet 1 transp_262
+    21300526: sheet 1 transp_263
+    21300528: sheet 1 transp_264
+    21300530: sheet 1 transp_265
+    21300532: sheet 1 transp_266
+    21300534: sheet 1 transp_267
+    21300536: sheet 1 transp_268
+    21300538: sheet 1 transp_269
+    21300540: sheet 1 transp_270
+    21300542: sheet 1 transp_271
+    21300544: sheet 1 transp_272
+    21300546: war b1
+    21300548: sheet 1 transp_274
+    21300550: mag b1
+    21300552: mag b2
+    21300554: mag b3
+    21300556: sheet 1 transp_278
+    21300558: sheet 1 transp_279
+    21300560: sheet 1 transp_280
+    21300562: sheet 1 transp_281
+    21300564: sheet 1 transp_282
+    21300566: sheet 1 transp_283
+    21300568: sheet 1 transp_284
+    21300570: ft b1
+    21300572: ft b2
+    21300574: ft b3
+    21300576: sheet 1 transp_288
+    21300578: war r1
+    21300580: war r2
+    21300582: mag r1
+    21300584: mag r2
+    21300586: mag r3
+    21300588: sheet 1 transp_294
+    21300590: sheet 1 transp_295
+    21300592: sheet 1 transp_296
+    21300594: sheet 1 transp_297
+    21300596: sheet 1 transp_298
+    21300598: sheet 1 transp_299
+    21300600: sheet 1 transp_300
+    21300602: ft r1
+    21300604: ft r2
+    21300606: ft r3
+    21300608: sheet 1 transp_304
+    21300610: war f1
+    21300612: war f2
+    21300614: mag f1
+    21300616: mag f2
+    21300618: mag f3
+    21300620: sheet 1 transp_310
+    21300622: sheet 1 transp_311
+    21300624: sheet 1 transp_312
+    21300626: sheet 1 transp_313
+    21300628: sheet 1 transp_314
+    21300630: sheet 1 transp_315
+    21300632: sheet 1 transp_316
+    21300634: ft f1
+    21300636: ft f2
+    21300638: ft f3
+    21300640: sheet 1 transp_320
+    21300642: war l1
+    21300644: war l2
+    21300646: mag l1
+    21300648: mag l2
+    21300650: mag l3
+    21300652: sheet 1 transp_326
+    21300654: sheet 1 transp_327
+    21300656: sheet 1 transp_328
+    21300658: sheet 1 transp_329
+    21300660: sheet 1 transp_330
+    21300662: sheet 1 transp_331
+    21300664: sheet 1 transp_332
+    21300666: ft l1
+    21300668: ft l2
+    21300670: ft l3
+    21300672: sheet 1 transp_336
+    21300674: sheet 1 transp_337
+    21300676: sheet 1 transp_338
+    21300678: sheet 1 transp_339
+    21300680: sheet 1 transp_340
+    21300682: sheet 1 transp_341
+    21300684: sheet 1 transp_342
+    21300686: sheet 1 transp_343
+    21300688: sheet 1 transp_344
+    21300690: sheet 1 transp_345
+    21300692: sheet 1 transp_346
+    21300694: sheet 1 transp_347
+    21300696: sheet 1 transp_348
+    21300698: sheet 1 transp_349
+    21300700: sheet 1 transp_350
+    21300702: sheet 1 transp_351
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mt b1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 202
+        width: 13
+        height: 17
+      alignment: 9
+      pivot: {x: -0.029277038, y: 0.5498386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt b2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 203
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt b3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 202
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt r1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 184
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt r2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 184
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt r3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 184
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt f1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 166
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt f2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 166
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt f3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 166
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt l1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 148
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt l2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 148
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mt l3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 148
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: war b1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 76
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mag b1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 1}
+      outline: []
+    - name: mag b2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 76
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mag b3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 76
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft b1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 76
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft b2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 76
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft b3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 76
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: war r1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 58
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: war r2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 59
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mag r1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 58
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mag r2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 58
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mag r3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 58
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft r1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 58
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft r2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 58
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft r3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 58
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: war f1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 40
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.50957394, y: 0.5106373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: war f2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mag f1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 40
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mag f2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mag f3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 40
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft f1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 40
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft f2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 40
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+    - name: ft f3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 40
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: war l1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 22
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: war l2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 22
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mag l1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 22
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mag l2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 22
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mag l3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 22
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft l1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 22
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft l2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 22
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ft l3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 22
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: war b2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 77
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: war b3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 76
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: war r3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 58
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: war f3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 41
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: war l3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 22
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
